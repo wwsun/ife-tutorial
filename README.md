@@ -27,8 +27,10 @@
 
 1. CSS入门：https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started
 2. 学习CSS布局：http://zh.learnlayout.com/no-layout.html
+3. [CSS常见布局问题整理](http://www.cnblogs.com/0603ljx/p/4440449.html)
 3. 淘宝UED：双飞翼布局 http://www.imooc.com/wenda/detail/254035
 4. [stackoverflow: 3 column layout](http://stackoverflow.com/questions/20566660/3-column-layout-html-css)
+5. CSS Flexible Box: [CSS3中弹性盒布局的最新版](http://www.cnblogs.com/0603ljx/p/4440449.html)
 
 ## Task 2
 
@@ -41,6 +43,7 @@
 
 1. MDN: [JavaScript入门](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 2. [JavaScript性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
+3. 为什么JavaScript中0.1+0.2不等于0.3？[参看浮点数计算的基本问题](http://floating-point-gui.de/basic/)。
 3. stackoverflow: [most efficient way to clone an object](http://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-clone-an-object)
 4. stackoverflow: [remove duplicate items from an array](http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array)
 5. MDN: [JavaScript正则表达式](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions)
@@ -48,11 +51,18 @@
 7. [详解JavaScript的函数闭包](http://wwsun.me/posts/javascript-closure.html)
 8. stackoverflow: [浏览器类型判断](http://stackoverflow.com/questions/9847580/how-to-detect-safari-chrome-ie-firefox-and-opera-browser)
 9. [MDN: Cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+10. [w3school: Ajax基础教程](http://www.w3school.com.cn/ajax/index.asp)
+11. Blog: [使用原生JavaScript封装Ajax](http://www.cnblogs.com/Webcom/p/3415295.html)
+10. [Comet: 基于HTTP长连接的“服务器push”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
 10. stackoverflow: [creating the checkbox daynamically using javascript](http://stackoverflow.com/questions/866239/creating-the-checkbox-dynamically-using-javascript)
 11. jsfiddle: [a simple countdown timer](http://jsfiddle.net/mrwilk/qVuHW/)
 
 
 ### Continue to update...
+
+## Task 3
+
+## Task 4
 
 ## Contact me
 
