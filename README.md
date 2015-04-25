@@ -17,6 +17,7 @@
 
 1. Git入门：[猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
 2. [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) （强推）
+3. [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/): A searchable collection of the most frequently asked Git Questions
 
 ### HTML:
 
@@ -30,7 +31,9 @@
 3. [CSS常见布局问题整理](http://www.cnblogs.com/0603ljx/p/4440449.html)
 3. 淘宝UED：双飞翼布局 http://www.imooc.com/wenda/detail/254035
 4. [stackoverflow: 3 column layout](http://stackoverflow.com/questions/20566660/3-column-layout-html-css)
+5. [CSS3中的网格](http://yanhaijing.com/css/2014/04/01/grids-in-css3/)
 5. CSS Flexible Box: [CSS3中弹性盒布局的最新版](http://www.cnblogs.com/0603ljx/p/4440449.html)
+6. Tool: [How to Center in CSS](http://howtocenterincss.com/)
 
 ## Task 2
 
