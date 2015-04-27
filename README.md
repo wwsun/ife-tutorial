@@ -2,6 +2,12 @@
 
 本项目是百度前端技术学院（[百度IFE第一期](https://github.com/baidu-ife/ife)）学习过程中涉及到的相关资料汇总，其中部分资料可能需要翻墙访问（[翻墙指南](http://www.jianshu.com/p/3ded38c49de6)），本列表的内容会随着课程进展逐步完善。
 
+## Pre
+
+1. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
+2. [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
+3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
+
 ## Task 1
 
 ### Reading:
@@ -59,6 +65,7 @@
 10. [Comet: 基于HTTP长连接的“服务器push”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
 11. jsfiddle: [a simple countdown timer](http://jsfiddle.net/mrwilk/qVuHW/)
 12. [Simple Ajax Auto-Complete Example](http://www.wilycode.com/simple-ajax-auto-complete-example/)
+13. Tutorial: [使用原生JavaScript从0开始开发一个轮播图](http://g-liu.com/blog/2013/08/tutorial-basic-carouselslideshow-with-javascript/)
 
 ### Node.js
 
