@@ -8,7 +8,7 @@
 2. [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
 3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
 
-## Task 1
+## Task 1 HTML\CSS\Git Basic
 
 ### Reading:
 1. 知乎：[Web开发基础指南](http://www.zhihu.com/question/22689579)
@@ -41,7 +41,7 @@
 5. CSS Flexible Box: [CSS3中弹性盒布局的最新版](http://www.cnblogs.com/0603ljx/p/4440449.html)
 6. Tool: [How to Center in CSS](http://howtocenterincss.com/)
 
-## Task 2
+## Task 2 JavaScript Basic
 
 ### Reading:
 
@@ -58,7 +58,6 @@
 2. [JavaScript性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
 5. MDN: [JavaScript正则表达式](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions)
 6. MDN: [query selector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-7. [详解JavaScript的函数闭包](http://wwsun.me/posts/javascript-closure.html)
 9. [MDN: Cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
 10. [w3school: Ajax基础教程](http://www.w3school.com.cn/ajax/index.asp)
 11. Blog: [使用原生JavaScript封装Ajax](http://www.cnblogs.com/Webcom/p/3415295.html)
@@ -82,9 +81,32 @@
 6. stackoverflow: [creating the checkbox daynamically using javascript](http://stackoverflow.com/questions/866239/creating-the-checkbox-dynamically-using-javascript)
 11. stackoverflow: [How to iterate JSON array in JavaScript](http://stackoverflow.com/questions/15496508/how-to-iterate-json-array-in-javascript)
 
-### Continue to update...
+## Task 3 JavaScript Advanced
 
-## Task 3
+### Reading
+
+1. JavaScript高级程序设计，第3版
+2. [Elogquent JavaScript](http://eloquentjavascript.net/)
+3. 数据结构与算法JavaScript描述
+4. 编写可维护的JavaScript
+5. Effective JavaScript
+
+### Language
+
+1. [5个经典的JavaScript面试题](http://wwsun.me/posts/javascript-interview.html)
+2. [鸟哥：理解JavaScript的作用域](http://www.laruence.com/2009/05/28/863.html)
+3. [JavaScript 开发进阶：理解 JavaScript 作用域和作用域链](http://www.cnblogs.com/lhb25/archive/2011/09/06/javascript-scope-chain.html)
+4. [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+5. [A Plain Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
+6. [详解JavaScript的函数闭包](http://wwsun.me/posts/javascript-closure.html)
+
+### Object-Oriented Programming
+
+1. [Javascript 面向对象编程基础入门](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+
+### Design Patterns
+
+1. [常用的JavaScript设计模式](http://blog.jobbole.com/29454/)
 
 ## Task 4
 
