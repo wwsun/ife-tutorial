@@ -47,6 +47,8 @@
 
 1. 推荐阅读：Head First HTML5 Programming
 2. 推荐阅读：JavaScript高级程序设计，第3版
+3. [Dive Into HTML5](http://diveintohtml5.info/)
+4. [MDN: JavaScript Wiki](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### HTML5
 
@@ -86,7 +88,11 @@
 ### Reading
 
 1. JavaScript高级程序设计，第3版
+2. [JavaScript: The Good Parts](http://proquest.safaribooksonline.com/book/programming/javascript/9780596517748)
+3. [JavaScript: The Definitive Guide](http://proquest.safaribooksonline.com/book/programming/javascript/9780596517748)
+4. [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 2. [Elogquent JavaScript](http://eloquentjavascript.net/)
+3. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 3. 数据结构与算法JavaScript描述
 4. 编写可维护的JavaScript
 5. Effective JavaScript
