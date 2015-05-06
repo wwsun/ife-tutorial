@@ -21,14 +21,18 @@
 
 ### Git
 
-1. Git入门：[猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
+1. [Git - the simple guide](http://rogerdudler.github.io/git-guide/index.zh.html)
+2. [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+2. Git入门：[猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
 2. [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) （强推）
 3. [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/): A searchable collection of the most frequently asked Git Questions
+4. [Github Help](https://help.github.com/)
 
 ### HTML:
 
 1. MDN: [HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction)
 2. [知乎：如何理解Web语义化](http://www.zhihu.com/question/20455165)
+3. [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
 ### CSS & Layout:
 
@@ -83,7 +87,7 @@
 6. stackoverflow: [creating the checkbox daynamically using javascript](http://stackoverflow.com/questions/866239/creating-the-checkbox-dynamically-using-javascript)
 11. stackoverflow: [How to iterate JSON array in JavaScript](http://stackoverflow.com/questions/15496508/how-to-iterate-json-array-in-javascript)
 
-## Task 3 JavaScript Advanced
+## Task 3 JavaScript Advanced & Basic Web App Development
 
 ### Reading
 
@@ -97,7 +101,7 @@
 4. 编写可维护的JavaScript
 5. Effective JavaScript
 
-### Language
+### JavaScript
 
 1. [5个经典的JavaScript面试题](http://wwsun.me/posts/javascript-interview.html)
 2. [鸟哥：理解JavaScript的作用域](http://www.laruence.com/2009/05/28/863.html)
@@ -106,13 +110,20 @@
 5. [A Plain Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 6. [详解JavaScript的函数闭包](http://wwsun.me/posts/javascript-closure.html)
 
-### Object-Oriented Programming
+### JavaScript OOP
 
 1. [Javascript 面向对象编程基础入门](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
 
 ### Design Patterns
 
 1. [常用的JavaScript设计模式](http://blog.jobbole.com/29454/)
+
+### HTML & CSS
+
+1. [Using Links to Create Navigation Menus](http://webdesign.about.com/od/css/a/aa082304.htm)
+2. Stackoverflow: [CSS3 Viewport-Percentage Length](http://stackoverflow.com/questions/1575141/make-div-100-height-of-browser-window)
+3. Tutorial: [Horizontal lists](http://css.maxdesign.com.au/listutorial/horizontal_master.htm)
+4. Tutorial: [Creating a modal window with HTML5 & CSS3](http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
 
 ## Task 4
 
