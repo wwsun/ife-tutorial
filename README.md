@@ -7,6 +7,7 @@
 1. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
 2. [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
 3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
+4. [JavaScript之路（包含大量学习资源）](http://jstherightway.org/)
 
 ## Task 1 HTML\CSS\Git Basic
 
@@ -113,10 +114,19 @@
 ### JavaScript OOP
 
 1. [Javascript 面向对象编程基础入门](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+2. 推荐阅读：JavaScript高级程序设计，第6章，面向对象程序设计
+2. [JavaScript继承详解](http://www.cnblogs.com/sanshi/archive/2009/07/08/1519036.html)
+3. [JavaScript继承方式详解](http://segmentfault.com/a/1190000002440502)
+4. [JavaScript探秘：构造函数 Constructor](http://www.nowamagic.net/librarys/veda/detail/1642)
+5. [this关键字详解](http://www.cnblogs.com/justany/archive/2012/11/01/the_keyword_this_in_javascript.html)
+6. [深入浅出JavaScript中的this关键字](http://www.ibm.com/developerworks/cn/web/1207_wangqf_jsthis/index.html)
 
 ### Design Patterns
 
 1. [常用的JavaScript设计模式](http://blog.jobbole.com/29454/)
+2. [JavaScript设计模式深入分析](http://developer.51cto.com/art/201109/288650.htm)
+3. 图书：[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+4. [上面这本书的中文版](http://www.oschina.net/translate/learning-javascript-design-patterns)
 
 ### HTML & CSS
 
