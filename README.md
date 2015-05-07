@@ -1,6 +1,6 @@
 # Front-end Knowledge Points
 
-本项目是百度前端技术学院（[百度IFE第一期](https://github.com/baidu-ife/ife)）学习过程中涉及到的相关资料汇总，其中部分资料可能需要翻墙访问（[翻墙指南](http://www.jianshu.com/p/3ded38c49de6)），本列表的内容会随着课程进展逐步完善。
+本项目是百度前端技术学院（[百度IFE第一期](https://github.com/baidu-ife/ife)）学习过程中涉及到的相关阅读资料、开发工具、入门tutorial、技术资讯等精华资源的汇总，其中部分内容可能需要翻墙访问（[翻墙指南](http://www.jianshu.com/p/3ded38c49de6)），本列表的内容会随着课程进展逐步完善，对前端刚入门的同学可以持续关注本项目的更新情况。
 
 ## Pre
 
@@ -14,18 +14,25 @@
 ### Reading:
 1. 知乎：[Web开发基础指南](http://www.zhihu.com/question/22689579)
 2. 常备站点：MDN https://developer.mozilla.org/zh-CN/
-3. 推荐图书：Head First HTML&CSS, 2nd
+3. 前端社区：[w3ctech](http://www.w3ctech.com/)
+4. 前端设计：[Sitepoint](http://www.sitepoint.com/)
+4. 前端博客：[Scotch.io](https://scotch.io/)
+3. 入门图书：Head First HTML&CSS, 2nd
+
+### Tools
+
 4. [Sublime常用配置技巧与常用插件](http://wwsun.me/posts/sublime-usage.html)
 5. [Web前端编程规范](http://wwsun.me/posts/frontend-guide.html)，[AlloyTeam编程规范](http://materliu.github.io/code-guide/)
 6. [RGB颜色查询对照表](http://www.114la.com/other/rgb.htm)
-7. [浏览器兼容性查询](http://caniuse.com/)
+7. Can I use: [浏览器兼容性查询](http://caniuse.com/)
 
 ### Git
 
 1. [Git - the simple guide](http://rogerdudler.github.io/git-guide/index.zh.html)
 2. [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
-2. Git入门：[猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
-2. [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) （强推）
+3. [Git from inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+2. [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
+2. [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 3. [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/): A searchable collection of the most frequently asked Git Questions
 4. [Github Help](https://help.github.com/)
 
@@ -34,6 +41,8 @@
 1. MDN: [HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction)
 2. [知乎：如何理解Web语义化](http://www.zhihu.com/question/20455165)
 3. [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+4. [20 HTML Elements for Better Text Semantics](http://www.sitepoint.com/20-html-elements-better-text-semantics/)
+5. [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 
 ### CSS & Layout:
 
@@ -45,6 +54,7 @@
 5. [CSS3中的网格](http://yanhaijing.com/css/2014/04/01/grids-in-css3/)
 5. CSS Flexible Box: [CSS3中弹性盒布局的最新版](http://www.cnblogs.com/0603ljx/p/4440449.html)
 6. Tool: [How to Center in CSS](http://howtocenterincss.com/)
+7. [HTML5+CSS3的响应式网页设计：自动适应屏幕宽度](http://yusi123.com/2539.html#0-tsina-1-79947-397232819ff9a47a7b7e80a40613cfe1)
 
 ## Task 2 JavaScript Basic
 
@@ -136,6 +146,15 @@
 4. Tutorial: [Creating a modal window with HTML5 & CSS3](http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
 
 ## Task 4
+
+To be updated
+
+## Further Learning
+
+### CSS Frameworks
+
+1. [Top 5 Material Design Frameworks to Use in 2015](http://www.sitepoint.com/top-5-material-design-frameworks-use-2015)
+
 
 ## Contact me
 
