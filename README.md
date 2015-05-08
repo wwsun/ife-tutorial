@@ -9,6 +9,14 @@
 3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
 4. [JavaScript之路（包含大量学习资源）](http://jstherightway.org/)
 
+### Editor
+
+1. [Sublime Text 2](http://www.sublimetext.com/)
+2. [WebStorm](https://www.jetbrains.com/webstorm/)
+3. [Visual Studio Code](https://code.visualstudio.com/) [Free]
+4. [Brackets](http://brackets.io/) [Free]
+5. [Atom](https://atom.io/) [Free]
+
 ## Task 1 HTML\CSS\Git Basic
 
 ### Reading:
@@ -55,6 +63,8 @@
 5. CSS Flexible Box: [CSS3中弹性盒布局的最新版](http://www.cnblogs.com/0603ljx/p/4440449.html)
 6. Tool: [How to Center in CSS](http://howtocenterincss.com/)
 7. [HTML5+CSS3的响应式网页设计：自动适应屏幕宽度](http://yusi123.com/2539.html#0-tsina-1-79947-397232819ff9a47a7b7e80a40613cfe1)
+8. [An Introduction to Mobile-First Media Queries](http://www.sitepoint.com/introduction-mobile-first-media-queries)
+
 
 ## Task 2 JavaScript Basic
 
@@ -112,6 +122,10 @@
 4. 编写可维护的JavaScript
 5. Effective JavaScript
 
+### Debug
+
+1. [Enhance your javascript debugging with Cross-Browser Source Maps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
+
 ### JavaScript
 
 1. [5个经典的JavaScript面试题](http://wwsun.me/posts/javascript-interview.html)
@@ -120,6 +134,11 @@
 4. [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 5. [A Plain Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 6. [详解JavaScript的函数闭包](http://wwsun.me/posts/javascript-closure.html)
+7. [Revealing the Inner Workings of JavaScript's 'this' keyword](http://www.sitepoint.com/inner-workings-javascripts-this-keyword)
+8. [JavaScript like a Boss: Understanding Fluent APIs](w.sitepoint.com/javascript-like-boss-understanding-fluent-apis)
+9. stackoverflow: [Storing Objects in HTML5 localStorage](http://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage)
+10. stackoverflow: [Copying array by value in JavaScript](http://stackoverflow.com/questions/7486085/copying-array-by-value-in-javascript)
+
 
 ### JavaScript OOP
 
