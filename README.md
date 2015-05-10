@@ -4,6 +4,8 @@
 
 ## Pre
 
+### Introduction
+
 1. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
 2. [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
 3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
@@ -17,22 +19,28 @@
 4. [Brackets](http://brackets.io/) [Free]
 5. [Atom](https://atom.io/) [Free]
 
+### Tools
+
+4. [Sublime常用配置技巧与常用插件](http://wwsun.me/posts/sublime-usage.html)
+5. [Web前端编程规范](http://wwsun.me/posts/frontend-guide.html) 或 [AlloyTeam前端编程规范](http://materliu.github.io/code-guide/)
+6. [RGB颜色查询对照表](http://www.114la.com/other/rgb.htm)
+7. [Can I use: 浏览器兼容性查询](http://caniuse.com/)
+8. [跨浏览器测试工具modern.IE](https://www.modern.ie/zh-cn)
+
+### Commmunity
+
+2. 常备站点：[MDN](https://developer.mozilla.org/zh-CN/)
+3. 前端社区：[w3ctech](http://www.w3ctech.com/)
+4. 前端设计：[Sitepoint](http://www.sitepoint.com/)
+4. 前端博客：[Scotch.io](https://scotch.io/)
+
 ## Task 1 HTML\CSS\Git Basic
 
 ### Reading:
 1. 知乎：[Web开发基础指南](http://www.zhihu.com/question/22689579)
-2. 常备站点：MDN https://developer.mozilla.org/zh-CN/
-3. 前端社区：[w3ctech](http://www.w3ctech.com/)
-4. 前端设计：[Sitepoint](http://www.sitepoint.com/)
-4. 前端博客：[Scotch.io](https://scotch.io/)
 3. 入门图书：Head First HTML&CSS, 2nd
-
-### Tools
-
-4. [Sublime常用配置技巧与常用插件](http://wwsun.me/posts/sublime-usage.html)
-5. [Web前端编程规范](http://wwsun.me/posts/frontend-guide.html)，[AlloyTeam编程规范](http://materliu.github.io/code-guide/)
-6. [RGB颜色查询对照表](http://www.114la.com/other/rgb.htm)
-7. Can I use: [浏览器兼容性查询](http://caniuse.com/)
+4. [Learn to Code HTML&CSS](http://learn.shayhowe.com/html-css/)
+4. [HTML/CSS Performance & Organization](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 
 ### Git
 
@@ -59,11 +67,14 @@
 3. [CSS常见布局问题整理](http://www.cnblogs.com/0603ljx/p/4440449.html)
 3. 淘宝UED：双飞翼布局 http://www.imooc.com/wenda/detail/254035
 4. [stackoverflow: 3 column layout](http://stackoverflow.com/questions/20566660/3-column-layout-html-css)
+5. [stackoverflow: Two column div layout with fluid left and fixed right column](http://stackoverflow.com/questions/5645986/two-column-div-layout-with-fluid-left-and-fixed-right-column)
 5. [CSS3中的网格](http://yanhaijing.com/css/2014/04/01/grids-in-css3/)
 5. CSS Flexible Box: [CSS3中弹性盒布局的最新版](http://www.cnblogs.com/0603ljx/p/4440449.html)
 6. Tool: [How to Center in CSS](http://howtocenterincss.com/)
 7. [HTML5+CSS3的响应式网页设计：自动适应屏幕宽度](http://yusi123.com/2539.html#0-tsina-1-79947-397232819ff9a47a7b7e80a40613cfe1)
+8. [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 8. [An Introduction to Mobile-First Media Queries](http://www.sitepoint.com/introduction-mobile-first-media-queries)
+9. [Responsive Design Best Practices for Big Project](https://medium.com/@elad/responsive-design-best-practices-for-big-projects-5a72e3ecdcd2)
 
 
 ## Task 2 JavaScript Basic
@@ -74,6 +85,7 @@
 2. 推荐阅读：JavaScript高级程序设计，第3版
 3. [Dive Into HTML5](http://diveintohtml5.info/)
 4. [MDN: JavaScript Wiki](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+5. [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 
 ### HTML5
 
@@ -165,6 +177,11 @@
 4. Tutorial: [Creating a modal window with HTML5 & CSS3](http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
 
 ## Task 4
+
+### Website Performance
+
+2. Yahoo: [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+1. [14 Rules for Faster-Loading Web Site](http://stevesouders.com/hpws/rules.php)
 
 To be updated
 
