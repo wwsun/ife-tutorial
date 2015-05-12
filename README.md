@@ -178,12 +178,29 @@
 
 ## Task 4
 
+### Mobile Development
+
+1. [Mobile Development Get Started](http://junmer.github.io/mobile-dev-get-started)
+2. [移动开发资源与技巧汇总](https://github.com/jtyjty99999/mobileTech)
+
+### CSS pre-process and post-process
+
+### Modular
+
+### Front-end Engineering
+
 ### Website Performance
 
 2. Yahoo: [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 1. [14 Rules for Faster-Loading Web Site](http://stevesouders.com/hpws/rules.php)
+2. Video: [Practical Performance Tips to Make Your HTML/JavaScript Faster](http://channel9.msdn.com/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster)
 
-To be updated
+### Performance Debug Tools
+
+1. [Chrome developer tools](https://developer.chrome.com/devtools)
+2. [Web Page Test](http://www.webpagetest.org/)
+3. [Windows Performance Toolkit Overview](https://msdn.microsoft.com/enus/library/windows/hardware/hh162981.aspx)
+
 
 ## Further Learning
 
