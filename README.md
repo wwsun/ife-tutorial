@@ -51,6 +51,7 @@
 2. [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 3. [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/): A searchable collection of the most frequently asked Git Questions
 4. [Github Help](https://help.github.com/)
+5. [25个Git进阶技巧](http://linux.cn/article-5418-weibo.html)
 
 ### HTML:
 
@@ -133,6 +134,7 @@
 3. 数据结构与算法JavaScript描述
 4. 编写可维护的JavaScript
 5. Effective JavaScript
+6. [重新介绍JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ### Debug
 
@@ -187,6 +189,10 @@
 
 ### Modular
 
+1. Wiki: [AMD](http://en.wikipedia.org/wiki/Asynchronous_module_definition)
+2. [Why AMD?](http://requirejs.org/docs/whyamd.html)
+2. [RequireJS](http://requirejs.org/)
+
 ### Front-end Engineering
 
 ### Website Performance
@@ -194,6 +200,7 @@
 2. Yahoo: [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 1. [14 Rules for Faster-Loading Web Site](http://stevesouders.com/hpws/rules.php)
 2. Video: [Practical Performance Tips to Make Your HTML/JavaScript Faster](http://channel9.msdn.com/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster)
+3. [前端性能优化最佳实践](http://caibaojian.com/webfront-practice.html)
 
 ### Performance Debug Tools
 
@@ -204,10 +211,21 @@
 
 ## Further Learning
 
-### CSS Frameworks
+2. Bower
+3. Grunt.js
+4. Yeoman
+5. MongoDB
+6. Node.js
+7. Express.js
+
+### MVC Frameworks
+
+1. Angular.js
+2. React.js
+
+### CSS Frameworks 
 
 1. [Top 5 Material Design Frameworks to Use in 2015](http://www.sitepoint.com/top-5-material-design-frameworks-use-2015)
-
 
 ## Contact me
 
