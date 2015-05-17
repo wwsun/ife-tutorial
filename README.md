@@ -9,7 +9,9 @@
 1. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
 2. [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
 3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
+4. [前端知识体系](https://github.com/JacksonTian/fks)
 4. [JavaScript之路（包含大量学习资源）](http://jstherightway.org/)
+5. [前端面试题汇总](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ### Editor
 
@@ -111,6 +113,7 @@
 
 1. scotch.io: [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 2. [Express跨域问题解决方案](http://blog.csdn.net/marujunyy/article/details/8852017)
+3. 朴灵：[Node编码规范](http://www.ituring.com.cn/article/197990)
 
 
 ### Questions
@@ -221,19 +224,19 @@
 3. [Windows Performance Toolkit Overview](https://msdn.microsoft.com/enus/library/windows/hardware/hh162981.aspx)
 
 
-## Further Learning
+### Tools
 
-2. Bower
-3. Grunt.js
-4. Yeoman
-5. MongoDB
-6. Node.js
-7. Express.js
+1. 文件精简工具：[UglifyJS](https://github.com/mishoo/UglifyJS2)
+2. 构建工具：[Grunt: The JavaScript Task Runner](http://gruntjs.com/)
+3. 构建工具：[Gulp: the streaming build system](https://github.com/gulpjs/gulp)
+4. 文档生成：[jsdoc: an api documentation generator for JavaScript](https://github.com/jsdoc3/jsdoc)
+5. 代码检查：[JSHint](https://github.com/jshint/jshint)
+6. 测试框架：[Karma](http://karma-runner.github.io/0.12/index.html)
 
-### MVC Frameworks
+### JavaScript MVC Frameworks
 
-1. Angular.js
-2. React.js
+1. Angular.js & Angular2
+2. React.js & React Native
 
 ### CSS Frameworks 
 
