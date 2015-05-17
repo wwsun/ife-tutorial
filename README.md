@@ -51,6 +51,7 @@
 2. [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 3. [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/): A searchable collection of the most frequently asked Git Questions
 4. [Github Help](https://help.github.com/)
+5. [搬进Github](http://gitbeijing.com/)
 5. [25个Git进阶技巧](http://linux.cn/article-5418-weibo.html)
 
 ### HTML:
@@ -138,7 +139,11 @@
 
 ### Debug
 
-1. [Enhance your javascript debugging with Cross-Browser Source Maps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
+1. [Debugging JavaScript](https://developer.chrome.com/devtools/docs/javascript-debugging)
+2. [Debugging Asynchronous JavaScript with Chrome DevTools](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
+3. [Breakpoint Actions in JavaScript](http://www.randomthink.net/blog/2012/11/breakpoint-actions-in-javascript/)
+4. [Evaluating Network Performance](https://developer.chrome.com/devtools/docs/network)
+2. [Enhance your javascript debugging with Cross-Browser Source Maps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
 
 ### JavaScript
 
@@ -178,6 +183,12 @@
 3. Tutorial: [Horizontal lists](http://css.maxdesign.com.au/listutorial/horizontal_master.htm)
 4. Tutorial: [Creating a modal window with HTML5 & CSS3](http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
 
+### Documentation
+
+1. [MDN JavaScript全部页面索引](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+2. [MDN JavaScript全部方法索引](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Methods_Index)
+3. [MDN JavaScript全部属性索引](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Properties_Index)
+
 ## Task 4
 
 ### Mobile Development
@@ -197,7 +208,8 @@
 
 ### Website Performance
 
-2. Yahoo: [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+2. [Google: Web性能最佳实践](https://developers.google.com/speed/docs/insights/rules)
+3. Yahoo: [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 1. [14 Rules for Faster-Loading Web Site](http://stevesouders.com/hpws/rules.php)
 2. Video: [Practical Performance Tips to Make Your HTML/JavaScript Faster](http://channel9.msdn.com/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster)
 3. [前端性能优化最佳实践](http://caibaojian.com/webfront-practice.html)
