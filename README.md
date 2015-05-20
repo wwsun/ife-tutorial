@@ -233,12 +233,15 @@
 3. 构建工具：[Gulp: the streaming build system](https://github.com/gulpjs/gulp)
 4. 文档生成：[jsdoc: an api documentation generator for JavaScript](https://github.com/jsdoc3/jsdoc)
 5. 代码检查：[JSHint](https://github.com/jshint/jshint)
-6. 测试框架：[Karma](http://karma-runner.github.io/0.12/index.html)
+6. 测试框架：[Jasmine](http://jasmine.github.io/)
+6. Test Runner：[Karma](http://karma-runner.github.io/0.12/index.html)
 
 ### JavaScript MVC Frameworks
 
-1. Angular.js & Angular2
-2. React.js & React Native
+1. Website: [Angular.js](https://angularjs.org/) & [Angular2](https://angular.io/)
+2. Website: [React.js](https://facebook.github.io/react/) & [React Native](https://facebook.github.io/react-native/)
+3. Tutorial: [AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
+4. [AngularJS风格指南](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/zh-CN.md)
 
 ### CSS Frameworks 
 
