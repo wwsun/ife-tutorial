@@ -6,7 +6,8 @@
 
 ### Introduction
 
-1. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
+1. [Brendan Eich: JavaScript at 20](http://brendaneich.github.io/ModernWeb.tw-2015/)
+2. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
 2. [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
 3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
 4. [前端知识体系](https://github.com/JacksonTian/fks)
@@ -24,7 +25,7 @@
 ### Tools
 
 4. [Sublime常用配置技巧与常用插件](http://wwsun.me/posts/sublime-usage.html)
-5. [Web前端编程规范](http://wwsun.me/posts/frontend-guide.html) 或 [AlloyTeam前端编程规范](http://materliu.github.io/code-guide/)
+5. [Web前端编程规范](https://github.com/bendc/frontend-guidelines) 或 [AlloyTeam前端编程规范](http://materliu.github.io/code-guide/)
 6. [RGB颜色查询对照表](http://www.114la.com/other/rgb.htm)
 7. [Can I use: 浏览器兼容性查询](http://caniuse.com/)
 8. [跨浏览器测试工具modern.IE](https://www.modern.ie/zh-cn)
@@ -69,6 +70,7 @@
 1. CSS入门：https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started
 2. 学习CSS布局：http://zh.learnlayout.com/no-layout.html
 3. [CSS常见布局问题整理](http://www.cnblogs.com/0603ljx/p/4440449.html)
+4. [60个有用的CSS代码片断](http://segmentfault.com/a/1190000002773955)
 3. 淘宝UED：双飞翼布局 http://www.imooc.com/wenda/detail/254035
 4. [stackoverflow: 3 column layout](http://stackoverflow.com/questions/20566660/3-column-layout-html-css)
 5. [stackoverflow: Two column div layout with fluid left and fixed right column](http://stackoverflow.com/questions/5645986/two-column-div-layout-with-fluid-left-and-fixed-right-column)
