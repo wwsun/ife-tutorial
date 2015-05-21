@@ -200,8 +200,17 @@
 
 1. [Mobile Development Get Started](http://junmer.github.io/mobile-dev-get-started)
 2. [移动开发资源与技巧汇总](https://github.com/jtyjty99999/mobileTech)
+3. [The Mobile Web Handbook](http://quirksmode.org/mobilewebhandbook/)
+4. [MobileWeb 适配总结](http://www.w3ctech.com/topic/979)
+5. [移动前端不得不了解的html5 head 头标签](http://www.css88.com/archives/5480)
+6. [浅谈移动前端的最佳实践](http://www.cnblogs.com/yexiaochai/p/4219523.html)
+7. [touch系事件](http://www.html-js.com/article/All-right-thinking-touch-events)
+8. [移动端真机调试终极利器-BrowserSync](http://www.codingserf.com/index.php/2015/03/browsersync/)
 
 ### CSS pre-process and post-process
+
+1. [再谈 CSS 预处理器](http://efe.baidu.com/blog/revisiting-css-preprocessors/)
+2. [CSS 预处理器与 CSS 后处理器](http://zhaolei.info/2014/01/04/css-preprocessor-and-postprocessor/)
 
 ### Modular
 
