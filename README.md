@@ -55,10 +55,12 @@
 3. [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/): A searchable collection of the most frequently asked Git Questions
 4. [Github Help](https://help.github.com/)
 5. [搬进Github](http://gitbeijing.com/)
+6. [Github Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial)
 5. [25个Git进阶技巧](http://linux.cn/article-5418-weibo.html)
 
 ### HTML:
 
+1. [HTML入门：教你做一个简单的网站](https://www.thinkful.com/learn/html-tutorial-for-beginners)
 1. MDN: [HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction)
 2. [知乎：如何理解Web语义化](http://www.zhihu.com/question/20455165)
 3. [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
@@ -214,9 +216,22 @@
 
 ### Modular
 
-1. Wiki: [AMD](http://en.wikipedia.org/wiki/Asynchronous_module_definition)
-2. [Why AMD?](http://requirejs.org/docs/whyamd.html)
-2. [RequireJS](http://requirejs.org/)
+1. [阮一峰：Javascript模块化编程（一）：模块的写法](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
+2. [详解JavaScript模块化开发](http://segmentfault.com/a/1190000000733959)
+2. [为什么需要AMD?](http://requirejs.org/docs/whyamd.html)
+2. [服务器端模块规范：RequireJS](http://requirejs.org/)
+3. [CMD实现:Sea.js](http://seajs.org/docs/#intro)
+3. [SeaJS与RequireJS最大的区别](http://www.douban.com/note/283566440/)
+4. [知乎：LABjs、RequireJS、SeaJS 哪个最好用？为什么？](http://www.zhihu.com/question/20342350)
+5. [Youtube: RequireJS made ridiculously easy, in just 10ish minutes](https://www.youtube.com/watch?v=eRqsZqLyYaU)
+5. [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/)
+5. [Organizing your application using Modules (require.js)](http://backbonetutorials.com/organizing-backbone-using-modules/)
+5. [百度EFE：玩转AMD - 写在前面](http://efe.baidu.com/blog/dissecting-amd-preface/)
+6. [百度EFE：玩转AMD - 设计思路](http://efe.baidu.com/blog/dissecting-amd-what/)
+7. [百度EFE：玩转AMD - 应用实践](http://efe.baidu.com/blog/dissecting-amd-how/)
+8. [百度EFE：玩转AMD - Loader](http://efe.baidu.com/blog/dissecting-amd-loader/)
+9. [百度ESL (Enterprise Standard Loader)](https://github.com/ecomfe/esl)
+
 
 ### Front-end Engineering
 
