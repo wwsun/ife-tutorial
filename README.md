@@ -84,6 +84,7 @@
 8. [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 8. [An Introduction to Mobile-First Media Queries](http://www.sitepoint.com/introduction-mobile-first-media-queries)
 9. [Responsive Design Best Practices for Big Project](https://medium.com/@elad/responsive-design-best-practices-for-big-projects-5a72e3ecdcd2)
+10. [The 30 CSS Selectors you Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 
 ## Task 2 JavaScript Basic
@@ -201,6 +202,7 @@
 
 ### Mobile Development
 
+1. Book: Head First Mobile Web
 1. [Mobile First Design: Why It’s Great and Why It Sucks](http://designshack.net/articles/css/mobilefirst/)
 2. [Mobile Development Get Started](http://junmer.github.io/mobile-dev-get-started)
 2. [移动开发资源与技巧汇总](https://github.com/jtyjty99999/mobileTech)
@@ -212,6 +214,7 @@
 7. [touch系事件](http://www.html-js.com/article/All-right-thinking-touch-events)
 8. [移动端真机调试终极利器-BrowserSync](http://www.codingserf.com/index.php/2015/03/browsersync/)
 9. [Webstorm: Getting started with hybrid mobile app development](https://confluence.jetbrains.com/display/WI/Getting+started+with+hybrid+mobile+app+development)
+10. [Browser-Sync：响应式Web开发调试利器](http://www.imooc.com/wenda/detail/265741)
 
 ### CSS pre-process and post-process
 
@@ -238,7 +241,7 @@
 7. [百度EFE：玩转AMD - 应用实践](http://efe.baidu.com/blog/dissecting-amd-how/)
 8. [百度EFE：玩转AMD - Loader](http://efe.baidu.com/blog/dissecting-amd-loader/)
 9. [百度ESL (Enterprise Standard Loader)](https://github.com/ecomfe/esl)
-
+10. [浏览器加载CommonJS模块的原理与实现](http://www.ruanyifeng.com/blog/2015/05/commonjs-in-browser.html)
 
 ### Front-end Engineering
 
@@ -278,13 +281,14 @@
 5. 代码检查：[JSHint](https://github.com/jshint/jshint)
 6. 测试框架：[Jasmine](http://jasmine.github.io/)
 6. Test Runner：[Karma](http://karma-runner.github.io/0.12/index.html)
-7. Bower
-8. YEOMAN
+7. [Bower：Web前端包管理工具](http://bower.io/)
+8. [Yeoman: 帮你快速启动新项目](http://yeoman.io/)
+9. [Travis CI：持续集成工具](https://travis-ci.org/)
 
 ### JavaScript MVC Frameworks
 
-1. Website: [Angular.js](https://angularjs.org/) & [Angular2](https://angular.io/)
-2. Website: [React.js](https://facebook.github.io/react/) & [React Native](https://facebook.github.io/react-native/)
+1. [Angular.js](https://angularjs.org/) & [Angular2](https://angular.io/)
+2. [React.js](https://facebook.github.io/react/) & [React Native](https://facebook.github.io/react-native/)
 3. Tutorial: [AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
 4. [AngularJS风格指南](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/zh-CN.md)
 
@@ -292,6 +296,7 @@
 
 1. [Bootstrap 3](http://v3.bootcss.com/css/)
 2. [Semantic UI](http://semantic-ui.com/)
+3. [Materialize：Material design](http://materializecss.com/)
 2. [Top 5 Material Design Frameworks to Use in 2015](http://www.sitepoint.com/top-5-material-design-frameworks-use-2015)
 
 ## Contact me
