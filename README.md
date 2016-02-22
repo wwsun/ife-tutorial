@@ -1,42 +1,112 @@
-# Front-end Knowledge Points
+# Guide For Front-end Developers
 
-本项目是百度前端技术学院（[百度IFE第一期](https://github.com/baidu-ife/ife)）学习过程中涉及到的相关阅读资料、开发工具、入门tutorial、技术资讯等精华资源的汇总，其中部分内容可能需要翻墙访问（[翻墙指南](http://www.jianshu.com/p/3ded38c49de6)），本列表的内容会随着课程进展逐步完善，对前端刚入门的同学可以持续关注本项目的更新情况。
+本项目作为一份前端学习的指南，内容主要包括前端学习所包括的主要知识，例如HTML、CSS、JavaScript等基础内容，
+还包括一些前端高级技术，例如常用的前端框架等。
 
-## Pre
+## 0 Preface
 
-### Introduction
+### 0.1 常用的Web工具
 
-1. [Brendan Eich: JavaScript at 20](http://brendaneich.github.io/ModernWeb.tw-2015/)
-2. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
-2. [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
-3. 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
-4. [前端知识体系](https://github.com/JacksonTian/fks)
-4. [JavaScript之路（包含大量学习资源）](http://jstherightway.org/)
-5. [前端面试题汇总](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- IDE: Sublime、WebStorm、Visual Studio Code、Atom
+  - [Sublime常用配置技巧与常用插件](http://wwsun.me/posts/sublime-usage.html)
+- [W3C：HTML规范验证服务](https://validator.w3.org)
+- 浏览器兼容性查询：[Can I Use](http://caniuse.com/)
+- 图像占位符服务：[placehold.it](http://placehold.it/)
+- Web字体托管服务：[FontSquirrel](http://www.fontsquirrel.com/) | [Google Fonts]()
+- Web颜色生成器：[coolors.co](https://coolors.co/)
+- [跨浏览器测试工具modern.IE](https://www.modern.ie/zh-cn)
+- [BootCDN: 稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 
-### Editor
+### 0.2 线上讨论
 
-1. [Sublime Text 2](http://www.sublimetext.com/)
-2. [WebStorm](https://www.jetbrains.com/webstorm/)
-3. [Visual Studio Code](https://code.visualstudio.com/) [Free]
-4. [Brackets](http://brackets.io/) [Free]
-5. [Atom](https://atom.io/) [Free]
+- Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
+- [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
+- 知乎：[有哪些关于前端技术的推荐书籍](http://www.zhihu.com/question/19809484?rf=20315724)
+- [前端知识体系](https://github.com/JacksonTian/fks)
+- [JavaScript之路（包含大量学习资源）](http://jstherightway.org/)
+- [一些前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
-### Tools
+## 1 Primer
 
-4. [Sublime常用配置技巧与常用插件](http://wwsun.me/posts/sublime-usage.html)
-5. [Web前端编程规范](https://github.com/bendc/frontend-guidelines) 或 [AlloyTeam前端编程规范](http://materliu.github.io/code-guide/)
-6. [RGB颜色查询对照表](http://www.114la.com/other/rgb.htm)
-7. [Can I use: 浏览器兼容性查询](http://caniuse.com/)
-8. [跨浏览器测试工具modern.IE](https://www.modern.ie/zh-cn)
-9. [BootCDN: 稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
+前端入门基础知识，通过一些书籍资料全面入门前端开发的基础内容。
 
-### Commmunity
+### 1.1 阅读材料
 
-2. 常备站点：[MDN](https://developer.mozilla.org/zh-CN/)
-3. 前端社区：[w3ctech](http://www.w3ctech.com/)
-4. 前端设计：[Sitepoint](http://www.sitepoint.com/)
-4. 前端博客：[Scotch.io](https://scotch.io/)
+- [Head First HTML与CSS（第2版）](http://book.douban.com/subject/25752357/) | [Codes](https://github.com/bethrobson/Head-First-HTML)
+- [Head First HTML5 Programming（中文版）](http://book.douban.com/subject/19894872/) | [Codes](https://github.com/bethrobson/Head-First-HTML5)
+- [HTML & XHTML: The Definitive Guide](http://book.douban.com/subject/2061604/)
+- [MDN: HTML5开发指南](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
+- [MDN: CSS文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+- [CSS Pocket Reference](http://shop.oreilly.com/product/0636920015055.do)
+
+### 1.2 HTML基础知识
+
+- HTML元素
+  - [HTML中的块元素与内联元素](http://www.w3school.com.cn/html/html_blocks.asp)
+  - [The Difference Between "Block" and "Inline"](http://www.impressivewebs.com/difference-block-inline-css/)
+  - [HTML void元素](http://ourjs.com/detail/531b2ce89144f4934f00000b)
+  - [HTML列表元素：有序列表、无需列表、定义列表](http://www.w3school.com.cn/html/html_lists.asp)
+  - CSS-TRICKS: [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+  - MDN: [使用HTML5音频和视频](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+  - [使用HTML5视频格式：mp4、webm、ogv](http://dwz.cn/2Ln8Jw)
+  - [HTML5的视频格式之争](http://www.ruanyifeng.com/blog/2010/05/html5_codec_fight.html)
+  - [区分视频编解码器codec和视频容器container](http://blog.csdn.net/defonds/article/details/17717643)
+- [HTML字符实体](http://www.w3school.com.cn/html/html_entities.asp)
+- 字符编码
+  - [HTML5 字符编码](http://wiki.jikexueyuan.com/project/html5/char-encodings.html)
+  - [HTML5 UTF-8中文乱码](http://www.cnblogs.com/csn0721/archive/2013/01/24/2875613.html)
+  - [字符编码笔记：ASCII，Unicode和UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
+- [语言代码表 e.g. `<html lang="zh-CN">`](http://reference.sitepoint.com/html/lang-codes)
+- [在谈语义化](http://ued.ctrip.com/blog/talk-about-semantic.html)
+- [如何写出高效率的HTML](https://segmentfault.com/a/1190000002680822)
+- [深入理解HTML5标签](https://segmentfault.com/a/1190000002695791)
+- MDN: [HTML表单指南](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Forms)
+  - SMASHING MAGZINE: [Good articles about froms UX](https://www.smashingmagazine.com/tag/forms/)
+  - [New Approaches to Designing Log-In Forms](https://www.smashingmagazine.com/2011/08/new-approaches-to-designing-login-forms/)
+  - [An Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/)
+
+### 1.3 CSS基础知识
+
+- [CSS选择器](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference#选择器)
+  - [CSS伪类 Pseudo-classes](http://www.w3school.com.cn/css/css_pseudo_classes.asp)
+  - [如何和何时使用CSS的`!important`](http://www.w3cplus.com/css/the-important-css-declaration-how-and-when-to-use-it.html)
+- [你应该知道的一些事——CSS权重](http://www.w3cplus.com/css/css-specificity-things-you-should-know.html)
+- Web字体
+  - [中文字体网页开发指南](http://www.ruanyifeng.com/blog/2014/07/chinese_fonts.html)
+  - [Web中文字体应用指南](https://ruby-china.org/topics/14005)
+  - [CSS字体系列： `font-family`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family)
+  - [Serif和Sans-serif字体的区别](http://kb.cnblogs.com/page/192018/)
+  - [网页字体设置你了解吗？](http://ued.ctrip.com/blog/web-page-font-settings-did-you-know.html)
+  - [CSS3 @font-face](http://www.w3cplus.com/content/css3-font-face)
+  - [CSS-TRICKS: Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
+  - [CSS中使用`em`设置字体大小](http://www.w3cplus.com/css/px-to-em)
+- Web颜色
+  - [Web安全色](http://www.bootcss.com/p/websafecolors/)
+  - [Web安全色：WebSafeColors.info](http://websafecolors.info/)
+  - [Trendy Web Color Palettes and Material Design Color Schemes & Tools](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html)
+  - [An Introduction to Color Theory for Web Designers](http://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
+- CSS盒模型
+  - [CSS盒模型概述](http://www.w3school.com.cn/css/css_boxmodel.asp)
+  - [CSS盒模型](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+  - [学习CSS布局](http://zh.learnlayout.com/)
+- [CSS3媒体查询 `@media`](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Media_queries)
+  - Google Developer: [Use CSS media queries for responsiveness](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en) | [中文版](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=zh-cn)
+- CSS定位、流、布局
+  - [CSS定位 Positioning](http://www.w3school.com.cn/css/css_positioning.asp)
+  - CSS-TRICKS: [All About Floats](https://css-tricks.com/all-about-floats/)
+  - [CSS 定位与文档流](http://www.ituring.com.cn/article/198258)
+  - 知乎：[在CSS中，用`float`和`position`的区别是什么？](https://www.zhihu.com/question/19588854)
+  - [CSS定位系列解读博文](http://www.zhangxinxu.com/wordpress/?s=CSS+%E7%9B%B8%E5%AF%B9%2F%E7%BB%9D%E5%AF%B9%28relative%2Fabsolute%29%E5%AE%9A%E4%BD%8D%E7%B3%BB%E5%88%97)
+  - [CSS: display](https://css-tricks.com/almanac/properties/d/display/)
+  - [Kicking Ass with `diplay:table`](http://www.mattboldt.com/kicking-ass-with-display-table/)
+  - [The Anti-hero of CSS Layout `display: table`](http://colintoh.com/blog/display-table-anti-hero)
+- [CSS: list-style](https://css-tricks.com/almanac/properties/l/list-style/)
+  
+### 1.4 HTTP基础知识
+
+- [HTTP协议简介](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386832653051fd44e44e4f9e4ed08f3e5a5ab550358d000)
+- 拓展阅读：[HTTP权威指南](http://book.douban.com/subject/10746113/)
+- [HTTP方法：GET对比POST](http://www.w3school.com.cn/tags/html_ref_httpmethods.asp)
 
 ## Task 1 HTML\CSS\Git Basic
 
