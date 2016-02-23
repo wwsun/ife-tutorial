@@ -1,0 +1,147 @@
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+}
+
+/*My layout*/
+.navbar {
+    background: purple;
+    height: 80px;
+}
+
+.navbar-menu {
+    float: right;
+    margin-top: 30px;
+}
+
+.navbar-menu ul {
+    list-style: none;
+    /*background-color: #444;*/
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-menu li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 1px solid #888;
+    /*float: left;*/
+}
+
+.navbar-menu a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    transition: .3s background-color;
+}
+
+.navbar-menu a:hover {
+    background-color: #005f5f;
+}
+
+a.active {
+    background-color: #fff;
+    color: #444;
+}
+
+@media screen and (min-width: 600px) {
+    .navbar-menu li {
+        width: 120px;
+        border-bottom: none;
+        height: 50px;
+        line-height: 50px;
+        font-size: 1.4em;
+    }
+
+    .navbar-menu li {
+        display: inline-block;
+        margin-right: -4px;
+    }
+}
+
+#logo {
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    color: #fff;
+    /*width: 10%;*/
+    /*margin-right: 90%;*/
+}
+
+.banner img {
+    width: 100%;
+}
+
+.content {
+    background: #ccc;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.post-group {
+    height: 350px;
+}
+
+.profile {
+    height: 300px;
+    background-color: #fff;
+}
+
+.post-img {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.avatar {
+    position: relative;
+    top: -75px;
+}
+
+img.circle {
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #444444;
+    color: #fff;
+    text-align: center;
+}
+
+footer nav {
+    background: black;
+    padding: 1px 0;
+}
+
+footer nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+ul.sitemap {
+    list-style: none;
+}
+
+ul.sitemap li {
+    display: inline-block;
+    /*width: 60px;*/
+    margin-right: 10px;
+}
+
+div#copyright {
+    padding: 5px;
+}
