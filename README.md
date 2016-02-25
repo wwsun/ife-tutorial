@@ -28,10 +28,10 @@ Useful oneline services
 
 ## Tutorials
 
-- [Task 1](https://github.com/wwsun/ife-tutorial/task/task0001#README)
-- [Task 2](https://github.com/wwsun/ife-tutorial/task/task0002#README)
-- [Task 3](https://github.com/wwsun/ife-tutorial/task/task0003#README)
-- [Task 4](https://github.com/wwsun/ife-tutorial/task/task0004#README)
+- [Task 1: HTML&CSS](https://github.com/wwsun/ife-tutorial/tree/master/task/task0001)
+- [Task 2: JavaScript](https://github.com/wwsun/ife-tutorial/tree/master/task/task0002)
+- [Task 3: Advanced JavaScript](https://github.com/wwsun/ife-tutorial/tree/master/task/task0003)
+- [Task 4: Mobile](https://github.com/wwsun/ife-tutorial/tree/master/task/task0004)
 
 ## HTML
 
