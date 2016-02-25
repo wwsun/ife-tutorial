@@ -7,6 +7,11 @@ html {
 body {
     margin: 0;
     padding: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333;
+    background-color: #fff;
 }
 
 h1, h2, h3, h4, h5 {
@@ -80,10 +85,6 @@ a.active {
     /*margin-right: 90%;*/
 }
 
-.banner img {
-    width: 100%;
-}
-
 .content {
     background: #ccc;
     margin-left: auto;
@@ -144,4 +145,10 @@ ul.sitemap li {
 
 div#copyright {
     padding: 5px;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
 }

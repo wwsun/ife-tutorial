@@ -40,3 +40,9 @@
   - [bootstrap](https://github.com/twbs/bootstrap)
 - [Tutorial: Simple Horizontal Navigation](http://css-snippets.com/simple-horizontal-navigation/)
 - [CSS框架](http://learnlayout.com/frameworks.html)
+
+## Extend
+
+- [说说CSS学习中的瓶颈](http://www.zhangxinxu.com/wordpress/2012/07/bottleneck-css-study/)
+- [bootstrap源码分析之整体架构](http://huangzhuang.github.io/2015/12/17/bootstrap/bootstrapOverallArchitecture/)
+- [深入理解Bootstrap]()
