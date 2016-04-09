@@ -175,6 +175,18 @@ Useful oneline services
 6. [Github Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial)
 5. [25个Git进阶技巧](http://linux.cn/article-5418-weibo.html)
 
+## Node.js
+
+### Reading
+
+- [Node.js In Action](https://www.manning.com/books/node-js-in-action-second-edition)
+- [Node.js入门经典](https://book.douban.com/subject/23780706/)
+
+### Online resources
+
+- [Felix's Node.js Guide](http://nodeguide.com/)
+- [Node.js Style Guide](https://github.com/felixge/node-style-guide)
+
 ## HTTP
 
 ### Reading
