@@ -4,12 +4,6 @@ This project is based on [gitbook](www.gitbook.com) service to organize and shar
 
 The Gitbook Address: https://wwsun.gitbooks.io/ife-tutorial/content/
 
-
-
-
-
-
-
 ## 中文说明
 
 本项目作为一份前端学习的指南，内容主要包括前端学习所包括的主要知识，例如HTML、CSS、JavaScript等基础内容，
@@ -19,7 +13,7 @@ The Gitbook Address: https://wwsun.gitbooks.io/ife-tutorial/content/
 
 访问地址： https://wwsun.gitbooks.io/ife-tutorial/content/
 
-## Pre Knowledge
+## Relevant links
 
 - Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
 - [知乎中一些值得推荐的前端领域相关问答](http://www.zhihu.com/question/20246142)
