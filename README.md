@@ -4,3 +4,5 @@
 还包括一些前端高级技术，例如常用的前端框架等。
 
 本项目已经重构为 Gitbook 免费书籍，后续会对整体内容进行重新整理。
+
+访问地址： https://wwsun.gitbooks.io/ife-tutorial/content/
