@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Getting Stared
+* [Getting Stared](getting_stared.md)
 
