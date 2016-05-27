@@ -1,5 +1,17 @@
 # Guide For Front-end Developers
 
+This project is based on [gitbook](www.gitbook.com) service to organize and share front-end knowledges. It is a guide to help front-end freshman to learning front-end knowledges, including HTML, CSS, JavaScript, Node.js etc. What's more, some advanced topics will also be discussed in this project, such as React, Koa etc. In order to improve the quality of knowledge points, lots of relevant links will be given for you to reference.
+
+The Gitbook Address: https://wwsun.gitbooks.io/ife-tutorial/content/
+
+
+
+
+
+
+
+## 中文说明
+
 本项目作为一份前端学习的指南，内容主要包括前端学习所包括的主要知识，例如HTML、CSS、JavaScript等基础内容，
 还包括一些前端高级技术，例如常用的前端框架等。
 
