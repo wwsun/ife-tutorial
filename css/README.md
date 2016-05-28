@@ -10,7 +10,7 @@
 ## Key points
 
 - [CSS选择器](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference#选择器)
-  - [CSS伪类 Pseudo-classes](http://www.w3school.com.cn/css/css_pseudo_classes.asp)
+  - [CSS伪类 Pseudo-classes](https://css-tricks.com/pseudo-class-selectors/)
   - [如何和何时使用CSS的`!important`](http://www.w3cplus.com/css/the-important-css-declaration-how-and-when-to-use-it.html)
 - [你应该知道的一些事——CSS权重](http://www.w3cplus.com/css/css-specificity-things-you-should-know.html)
 - Web字体
