@@ -6,16 +6,16 @@
 
 The most common web browsers are:
 
-- Chrome
-- Internet Explorer
-- Firefox
-- Safari
+- Chrome (engine: Blink + V8)
+- Internet Explorer (engine: Gecko + SpiderMonkey)
+- Firefox (engine: Trident + Chakra)
+- Safari (engine: Webkit + SquirrelFish)
 
 The most common headless browsers are:
 
-- PhantomJS
-- slimerjs
-- trifleJS
+- PhantomJS (enine: Webkit + SquirrelFish)
+- slimerjs (engine: Gecko + SpiderMonkey)
+- trifleJS (engine: Trident + Chakra)
 
 The most common sulutions for webview development are:
 
