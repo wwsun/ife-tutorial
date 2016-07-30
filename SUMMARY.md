@@ -6,6 +6,7 @@
    * [Config your windows pc](getting-started/config-your-pc.md)
 * [Section 1: HTML](html/README.md)
 * [Section 2: CSS](css/README.md)
+  * [2.1 Selectors](css/selectors.md)
 * [Section 3: Simple JavaScript](simple-javascript/README.md)
 * Section 4: Advanced JavaScript
 * Section 5: Node.js

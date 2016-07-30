@@ -4,6 +4,14 @@ This project is based on [gitbook](www.gitbook.com) service to organize and shar
 
 The Gitbook Address: https://wwsun.gitbooks.io/ife-tutorial/content/
 
+## Learning Tips
+
+For freshman, we suggests:
+
+> Learn the actual underlying technologies, before learning abstractions. Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn CoffeeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns. When getting your start, you should fear most things that conceal complexity. -- Kyle Simpson
+
+[Video Link](https://www.youtube.com/watch?v=QjKH1J77gjI)
+
 ## 中文说明
 
 本项目作为一份前端学习的指南，内容主要包括前端学习所包括的主要知识，例如HTML、CSS、JavaScript等基础内容，
